@@ -920,23 +920,23 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "76c60ef4e5aa"
+			"Rev": "b038cc8ffb8f"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "4d6ea9e8f944"
+			"Rev": "8614cafa6f89"
 		},
 		{
 			"ImportPath": "k8s.io/apiserver",
-			"Rev": "0e6eadf22bfe"
+			"Rev": "7511459a71ef"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "a65a26b8fd54"
+			"Rev": "1f927289f537"
 		},
 		{
 			"ImportPath": "k8s.io/code-generator",
-			"Rev": "565235dbf4a3"
+			"Rev": "2c52092cf1a1"
 		},
 		{
 			"ImportPath": "k8s.io/component-base",
